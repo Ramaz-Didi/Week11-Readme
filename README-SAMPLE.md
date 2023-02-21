@@ -1,7 +1,7 @@
 
   
   # Readme Generator <br />
-  ![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
+  ![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
   ## *Description*
   Generate high-quality and professional README.md file. Script is helping developer to create README files efficient and standard way.  Readme Generator allows users to group information under the correct heading. It is offers to decrease README file creation time, and thus will allow user to utilize surplus resources on the other part of the project.
   
@@ -20,10 +20,10 @@
 > In addition to the existing purpose, Readme Generator can be easily converted in to the script with the same task. It can be adjusted to the project needs and easily expand or contract.
 
 ### *License*
-> Please see license link  [Boost Software License 1.0](https://www.boost.org/LICENSE_1_0.txt)
+> Please see license link  [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
 
 ### *Contribution*
->  Readme Generator is open source resource script and located on Github. Anyone, who contributes to enhance or modify it, are welcome.
+>  Readme Generator is open source recourse script and located on Github. Anyone, who contributes to enhance or modify it, are welcome.
 
 ### *Tests*
 >  Readme Generator tested intensively, it is checking project name and descriptions availability and allows to continue if input string is not empty. Usage, Installation and Test heading are not checked and user may don’t want to included them in the output file.
