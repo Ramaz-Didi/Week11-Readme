@@ -23,7 +23,7 @@
 > Please see license link  [Boost Software License 1.0](https://www.boost.org/LICENSE_1_0.txt)
 
 ### *Contribution*
->  Readme Generator is open source recourse script and located on Github. Anyone, who contributes to enhance or modify it, are welcome.
+>  Readme Generator is open source resource script and located on Github. Anyone, who contributes to enhance or modify it, are welcome.
 
 ### *Tests*
 >  Readme Generator tested intensively, it is checking project name and descriptions availability and allows to continue if input string is not empty. Usage, Installation and Test heading are not checked and user may don’t want to included them in the output file.
