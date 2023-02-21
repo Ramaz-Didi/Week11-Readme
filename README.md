@@ -17,7 +17,7 @@
 > *In addition to the existing purpose, Readme Generator can be easily converted in to the script with the same task. It can be adjusted to the project needs and easily expand or contract*
 
 ### *Usage*
-> *Prior to the usage of Readme Generator, “inquirer” module needs to be install. Please follow the instruction:  npm i init –y, after task finishes, please enter npm install inquirer@^8.0.0 and final : node index.mjs*
+> *Prior to the usage of Readme Generator, “inquirer” module needs to be install. Please follow the instruction:  npm init –y, after task finishes, please enter npm install inquirer@^8.0.0 and final : node index.mjs*
 
 ### *License*
 > Please see license link  *[Boost Software License 1.0]*(https://www.boost.org/LICENSE_1_0.txt)
