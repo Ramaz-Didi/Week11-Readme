@@ -3,7 +3,7 @@
   # Readme Generator <br />
   ![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
   ## *Description*
-  **Generate high-quality and professional README.md file. Script is helping developer to create README files efficient and standard way.  Readme Generator allows users to group information under the correct heading. It is offers to decrease README file creation time, and thus will allow user to utilize surplus resources on the other part of the project**
+  Generate high-quality and professional README.md file. Script is helping developer to create README files efficient and standard way.  Readme Generator allows users to group information under the correct heading. It is offers to decrease README file creation time, and thus will allow user to utilize surplus resources on the other part of the project
   
   ## Table of Contents 
 - [Installation](#installation)<br />

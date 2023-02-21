@@ -82,7 +82,7 @@ let {title,description,installation,usage,contributing,tests,license,gitHub,emai
   # ${ title} <br />
   ${badge}
   ## *Description*
-  **${description}**
+  ${description}
   
   ## Table of Contents 
 - [Installation](#installation)<br />
@@ -93,22 +93,22 @@ let {title,description,installation,usage,contributing,tests,license,gitHub,emai
 - [Questions](#questions)<br />
 
 ### *Installation*
-> ${"*"+installation+"*"}
+> ${installation}
 <br />
 ### *Usage*
-> *${usage}*
+> ${usage}
 <br />
 ### *License*
-> Please see license link  *[${license}]*${badgeUrl}
+> Please see license link  [${license}]${badgeUrl}
 <br />
 ### *Contribution*
->  *${contributing}*
+>  ${contributing}
 <br />
 ### *Tests*
->  *${tests}*
+>  ${tests}
 <br />
 ### *Questions*
->  for more information please check GitHub repository *${gitHub}*<br />
+>  for more information please check GitHub repository ${gitHub}<br />
  also for further details please do not hesitate to contact on *${email}*
 <br />
  
