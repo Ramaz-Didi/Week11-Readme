@@ -89,28 +89,28 @@ let {title,description,installation,usage,contributing,tests,license,gitHub,emai
 - [Usage](#usage)<br />
 - [License](#license)<br />
 - [Contribution](#contribution)<br />
-- [Tests](#test)<br /> 
+- [Tests](#tests)<br /> 
 - [Questions](#questions)<br />
 
 ### *Installation*
 > ${installation}
-<br />
+
 ### *Usage*
 > ${usage}
-<br />
+
 ### *License*
 > Please see license link  [${license}]${badgeUrl}
-<br />
+
 ### *Contribution*
 >  ${contributing}
-<br />
+
 ### *Tests*
 >  ${tests}
-<br />
+
 ### *Questions*
 >  for more information please check GitHub repository ${gitHub}<br />
  also for further details please do not hesitate to contact on *${email}*
-<br />
+
  
 [go back to Description](#description)
       

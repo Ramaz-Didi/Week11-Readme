@@ -10,7 +10,7 @@
 - [Usage](#usage)<br />
 - [License](#license)<br />
 - [Contribution](#contribution)<br />
-- [Tests](#test)<br /> 
+- [Tests](#tests)<br /> 
 - [Questions](#questions)<br />
 
 ### *Installation*
@@ -26,7 +26,7 @@
 >  *Readme Generator is open source recourse script and located on Github. Anyone, who contributes to enhance or modify it are welcomed*
 
 ### *Tests*
->  *Readme Generator testes intensively, it is checking project name and descriptions availability and allows to continue if input string is not empty. Usage, Installation and Test heading are not checked and user may don’t want to included them in the output file*
+>  *Readme Generator tested intensively, it is checking project name and descriptions availability and allows to continue if input string is not empty. Usage, Installation and Test heading are not checked and user may don’t want to included them in the output file*
 
 ### *Questions*
 >  for more information please check GitHub repository *https://github.com/Ramaz-Didi/Week11-Readme*<br />
